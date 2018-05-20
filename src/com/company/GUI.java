@@ -1,5 +1,5 @@
 package com.company;
-
+/* Hello friends :) */
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
